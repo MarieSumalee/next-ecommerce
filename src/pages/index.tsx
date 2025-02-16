@@ -3,7 +3,9 @@ import PageIntro from "@/components/page-intro";
 import ProductsFeatured from "@/components/products-featured";
 import Subscribe from "@/components/subscribe";
 
+
 import Layout from "../layouts/Main";
+
 
 const IndexPage = () => {
   return (
@@ -17,9 +19,9 @@ const IndexPage = () => {
             className="featured-item featured-item-large"
           >
             <div className="featured-item__content">
-              <h3>New arrivals are now in!</h3>
+              <h3>About Chef Thuleewan</h3>
               <a href="#" className="btn btn--rounded">
-                Show Collection
+                Read more
               </a>
             </div>
           </article>
@@ -29,7 +31,7 @@ const IndexPage = () => {
             className="featured-item featured-item-small-first"
           >
             <div className="featured-item__content">
-              <h3>Basic t-shirts $29,99</h3>
+              <h3>Chefs uniform</h3>
               <a href="#" className="btn btn--rounded">
                 More details
               </a>
@@ -41,9 +43,9 @@ const IndexPage = () => {
             className="featured-item featured-item-small"
           >
             <div className="featured-item__content">
-              <h3>Sale this summer</h3>
+              <h3>Support Our Project</h3>
               <a href="#" className="btn btn--rounded">
-                VIEW ALL
+                More details
               </a>
             </div>
           </article>
@@ -112,3 +114,4 @@ const IndexPage = () => {
 };
 
 export default IndexPage;
+

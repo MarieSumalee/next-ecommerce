@@ -10,8 +10,8 @@ const Footer = () => {
               <Logo /> <span>E</span>-Shop
             </h6>
             <p>
-              House My Brand designs clothing for the young, the old & everyone
-              in between – but most importantly, for the fashionable
+              House My Brand designs Chef's unform for modern day, young and old, for everyone
+              in between – but most importantly, for the affordable price.
             </p>
             <ul className="site-footer__social-networks">
               <li>
@@ -82,10 +82,10 @@ const Footer = () => {
             <ul>
               <li>Contact</li>
               <li>
-                <a href="#">store@uikit.com</a>
+                <a href="#">thefarmerchefs@gmail.com</a>
               </li>
               <li>
-                <a href="#">Hotline: +1 131 138 138</a>
+                <a href="#">Hotline: +1 222222222</a>
               </li>
             </ul>
           </div>
@@ -94,7 +94,7 @@ const Footer = () => {
 
       <div className="site-footer__bottom">
         <div className="container">
-          <p>DESIGN BY ICEO.CO - © 2019. ALL RIGHTS RESERVED.</p>
+          <p>THE FARMER CHEFS - © 2022. ALL RIGHTS RESERVED.</p>
         </div>
       </div>
     </footer>
